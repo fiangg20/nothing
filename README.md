@@ -47,7 +47,7 @@ There is nothing to use.
 
 ## License
 
-MIT License.
+[MIT License.](LICENSE)
 
 ## Philosophy
 
